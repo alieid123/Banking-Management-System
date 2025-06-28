@@ -94,7 +94,7 @@ Edit
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/your-username/banking-management-system.git
+git clone 
 Open the .sln file in Visual Studio
 
 Update SQL Server connection string in App.config
@@ -106,5 +106,5 @@ Hi, I'm Ali, a Computer Science student and passionate .NET developer.
 This project reflects my learning journey into building structured, database-driven desktop applications.
 I'm constantly learning and improving — stay tuned for future projects!
 
-🔗 LinkedIn  www.linkedin.com/in/aly-eid-867583345
+🔗 [LinkedIn](https://www.linkedin.com/in/aly-eid-867583345) 
 
