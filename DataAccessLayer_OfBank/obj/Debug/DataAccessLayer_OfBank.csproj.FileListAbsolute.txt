@@ -1,0 +1,6 @@
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\DataAccessLayer_OfBank\bin\Debug\DataAccessLayer_OfBank.dll
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\DataAccessLayer_OfBank\bin\Debug\DataAccessLayer_OfBank.pdb
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\DataAccessLayer_OfBank\obj\Debug\DataAccessLayer_OfBank.csproj.AssemblyReference.cache
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\DataAccessLayer_OfBank\obj\Debug\DataAccessLayer_OfBank.csproj.CoreCompileInputs.cache
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\DataAccessLayer_OfBank\obj\Debug\DataAccessLayer_OfBank.dll
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\DataAccessLayer_OfBank\obj\Debug\DataAccessLayer_OfBank.pdb
