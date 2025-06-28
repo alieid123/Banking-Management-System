@@ -78,11 +78,14 @@ This system supports full user and account management, permission handling using
 
 > *(You can include screenshots here in a `/screenshots/` folder)*
 
-📁 /screenshots/
-┣ dashboard.png
-┣ clients-form.png
-┣ login-form.png
-┗ permissions-ui.png
+### 🔐 Login Form
+![Login Form](Screenshots/frmLogin.png)
+
+### 🏠 Dashboard
+![Dashboard](Screenshots/frmHome.png)
+
+### 💰 Transactions
+![Transactions](Screenshots/frmTransactions.png)ng
 
 yaml
 Copy
