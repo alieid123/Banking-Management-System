@@ -1,4 +1,4 @@
-# Banking-Management-System
+
 <h1 align="center">🏦 Banking Management System</h1>
 <p align="center">
   💻 A desktop banking system built with <strong>C# (.NET Framework)</strong>, <strong>WinForms</strong>, <strong>ADO.NET</strong>, and <strong>SQL Server</strong>.
