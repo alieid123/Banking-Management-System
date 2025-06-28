@@ -1,0 +1,9 @@
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\BusinessLayer_OfBank\bin\Debug\BusinessLayer_OfBank.dll
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\BusinessLayer_OfBank\bin\Debug\BusinessLayer_OfBank.pdb
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\BusinessLayer_OfBank\bin\Debug\DataAccessLayer_OfBank.dll
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\BusinessLayer_OfBank\bin\Debug\DataAccessLayer_OfBank.pdb
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\BusinessLayer_OfBank\obj\Debug\BusinessLayer_OfBank.csproj.AssemblyReference.cache
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\BusinessLayer_OfBank\obj\Debug\BusinessLayer_OfBank.csproj.CoreCompileInputs.cache
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\BusinessLayer_OfBank\obj\Debug\Business.6570D04C.Up2Date
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\BusinessLayer_OfBank\obj\Debug\BusinessLayer_OfBank.dll
+G:\C# & Database Connectivity\3-Tier Architecture_OfBank\BusinessLayer_OfBank\obj\Debug\BusinessLayer_OfBank.pdb
