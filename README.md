@@ -94,7 +94,7 @@ Edit
 
 1. **Clone the repo:**
 ```bash
-git clone 
+git clone https://github.com/alieid123/Banking-Management-System.git
 Open the .sln file in Visual Studio
 
 Update SQL Server connection string in App.config
