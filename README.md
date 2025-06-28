@@ -76,8 +76,6 @@ This system supports full user and account management, permission handling using
 
 ## 🖼️ UI Preview
 
-> *(You can include screenshots here in a `/screenshots/` folder)*
-
 ### 🔐 Login Form
 ![Login Form](Screenshots/frmLogin.png)
 
@@ -87,9 +85,23 @@ This system supports full user and account management, permission handling using
 ### 💰 Transactions
 ![Transactions](Screenshots/frmTransactions.png)ng
 
-yaml
-Copy
-Edit
+### 💰 Transactions
+![Transactions](Screenshots/frmTransactionsList.png)ng
+
+###  Permissions
+![Permissions](Screenshots/Permissions1.png)ng
+
+### 💰 Currencies
+![Currencies](Screenshots/frmListOfCurrencies.png)ng
+
+### 💰 Currency Exchange
+![Currencies](Screenshots/frmCurrenciesExchange.png)ng
+
+###  Manage Clients
+![Manage Clients](Screenshots/frmManageClients.png)ng
+
+###  Manage Users
+![Manage Users](Screenshots/frmManageUsers.png)ng
 
 ---
 
